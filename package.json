@@ -2,7 +2,6 @@
   "name": "habbit-tracking-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://mukulagg606.github.io/Habit-Tracking-App",
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.5",
     "@testing-library/jest-dom": "^5.16.5",
